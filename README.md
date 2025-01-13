@@ -1,5 +1,5 @@
 <h1><div align="center">
- <img alt="novacat" width="300px" height="auto" src="https://raw.githubusercontent.com/novacat-ai/novacat/main/novacat.png">
+ <img alt="novacat" width="300px" height="auto" src="https://github.com/novacatai/novacat/blob/main/novacat.png">
 </div></h1>
 
 [![PyPI](https://img.shields.io/pypi/v/novacat-ai)](https://pypi.org/project/novacat-ai) [![Docs](https://img.shields.io/badge/Documentation-blue)](https://docs.novacat.ai) [![Discord](https://img.shields.io/discord/1239284677165056021)](https://discord.gg/novacat) <a href="https://app.commanddash.io/agent/github_novacat-ai_novacat"><img src="https://img.shields.io/badge/AI-Code%20Agent-EB9FDA"></a>
@@ -18,11 +18,11 @@ Novacat is an open source Python framework for building voice and multimodal con
 ## See it in action
 
 <p float="left">
-    <a href="https://github.com/novacat-ai/novacat/tree/main/examples/simple-chatbot"><img src="https://raw.githubusercontent.com/novacat-ai/novacat/main/examples/simple-chatbot/image.png" width="280" /></a>&nbsp;
-    <a href="https://github.com/novacat-ai/novacat/tree/main/examples/storytelling-chatbot"><img src="https://raw.githubusercontent.com/novacat-ai/novacat/main/examples/storytelling-chatbot/image.png" width="280" /></a>
+    <a href="https://github.com/novacat-ai/novacat/tree/main/examples/simple-chatbot"><img src="https://github.com/novacatai/novacat/blob/main/examples/img/1.png" width="280" /></a>&nbsp;
+    <a href="https://github.com/novacat-ai/novacat/tree/main/examples/storytelling-chatbot"><img src="https://github.com/novacatai/novacat/blob/main/examples/img/2.png" width="280" /></a>
     <br/>
-    <a href="https://github.com/novacat-ai/novacat/tree/main/examples/translation-chatbot"><img src="https://raw.githubusercontent.com/novacat-ai/novacat/main/examples/translation-chatbot/image.png" width="280" /></a>&nbsp;
-    <a href="https://github.com/novacat-ai/novacat/tree/main/examples/moondream-chatbot"><img src="https://raw.githubusercontent.com/novacat-ai/novacat/main/examples/moondream-chatbot/image.png" width="280" /></a>
+    <a href="https://github.com/novacat-ai/novacat/tree/main/examples/translation-chatbot"><img src="https://github.com/novacatai/novacat/blob/main/examples/img/3.png" width="280" /></a>&nbsp;
+    <a href="https://github.com/novacat-ai/novacat/tree/main/examples/moondream-chatbot"><img src="https://github.com/novacatai/novacat/blob/main/examples/img/4.png" width="280" /></a>
 </p>
 
 ## Key features
