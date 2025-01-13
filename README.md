@@ -235,10 +235,10 @@ Install the
 
 We welcome contributions from the community! Whether you're fixing bugs, improving documentation, or adding new features, here's how you can help:
 
-- **Found a bug?** Open an [issue](https://github.com/novacat-ai/novacat/issues)
+- **Found a bug?** Open an [issue](https://github.com/novacatai/novacat/issues)
 - **Have a feature idea?** Start a [discussion](https://discord.gg/novacat)
 - **Want to contribute code?** Check our [CONTRIBUTING.md](CONTRIBUTING.md) guide
-- **Documentation improvements?** [Docs](https://github.com/novacat-ai/docs) PRs are always welcome
+- **Documentation improvements?** [Docs](https://github.com/novacatai/docs) PRs are always welcome
 
 Before submitting a pull request, please check existing issues and PRs to avoid duplicates.
 
