@@ -250,4 +250,4 @@ We aim to review all contributions promptly and provide constructive feedback to
 
 ➡️ [Read the docs](https://docs.novacat.ai)
 
-➡️ [Reach us on X](https://x.com/novacat_ai)
+➡️ [Reach us on X](https://x.com/NovaCatAI)
