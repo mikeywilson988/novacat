@@ -246,7 +246,7 @@ We aim to review all contributions promptly and provide constructive feedback to
 
 ## Getting help
 
-➡️ [Join our Discord](https://discord.gg/novacat)
+➡️ [Join our Discord](https://discord.gg/novacatai)
 
 ➡️ [Read the docs](https://docs.novacat.ai)
 
